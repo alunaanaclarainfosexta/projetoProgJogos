@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "69d05e92224af5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "063135257fefee86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb7f26005350d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CursosPosRio/02-github.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98ee4b768d409d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "9602e0cf0b932777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603538c9f045bf7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "75736297c83e12c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f79af22bcc138074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8c0376d29e4bfc1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6302c88a1cf7d524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8625e1972f3ee7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tarefas semanais.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para tarefas semanais"
+            }
+          },
+          {
+            "id": "64965c177ba9f853",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tarefas semanais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para tarefas semanais"
+            }
+          },
+          {
+            "id": "8bbfcbf2190ea326",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8e34ed09d867c12d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e96af2435b9fcee2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tarefas semanais.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de tarefas semanais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "4bb7f26005350d23",
+  "lastOpenFiles": [
+    "projeto/beyond_the_code.md",
+    "CursosPosRio/02-github.md",
+    "projeto",
+    "CursosPosRio/01-tarefas_semanais.md",
+    "CursosPosRio",
+    "teste.md",
+    "Sem título.canvas",
+    "tarefas semanais.md"
+  ]
+}
