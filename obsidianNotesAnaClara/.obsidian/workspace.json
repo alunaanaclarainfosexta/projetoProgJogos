@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CursosPosRio/02-github.md",
+                "file": "01-COMANDOS_GITHUB.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-github"
+              "title": "01-COMANDOS_GITHUB"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "right": {
     "id": "8c0376d29e4bfc1f",
@@ -186,10 +185,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4bb7f26005350d23",
+  "active": "603538c9f045bf7e",
   "lastOpenFiles": [
     "projeto/beyond_the_code.md",
-    "CursosPosRio/02-github.md",
+    "01-COMANDOS_GITHUB.md",
     "projeto",
     "CursosPosRio/01-tarefas_semanais.md",
     "CursosPosRio",
