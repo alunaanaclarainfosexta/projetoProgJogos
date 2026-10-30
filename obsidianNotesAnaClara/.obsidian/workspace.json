@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 283.5
   },
   "right": {
     "id": "8c0376d29e4bfc1f",
@@ -185,7 +185,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "603538c9f045bf7e",
+  "active": "4bb7f26005350d23",
   "lastOpenFiles": [
     "projeto/beyond_the_code.md",
     "01-COMANDOS_GITHUB.md",
